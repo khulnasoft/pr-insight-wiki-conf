@@ -34,7 +34,7 @@ jobs:
         uses: khulnasoft/pr-insight-wiki-conf@main
         env:
           common_instructions: >-
-            - Answer in Bangladesh.
+            - Answer in Bengali.
           pr_reviewer.extra_instructions: >-
             - Additional second priority point: focus on the need for test code additions or changes to the application code changes.
       - name: PR Insight action step
